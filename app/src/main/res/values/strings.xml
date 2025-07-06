@@ -1,0 +1,57 @@
+<resources>
+
+    <!--Main Activity Strings-->
+    <string name="app_name">XY Mental</string>
+    <string name="browse_button">Browse</string>
+    <string name="shuffle_button">Shuffle</string>
+    <string name="saved_button">Saved</string>
+    <string name="settings_button">Settings</string>
+    <string name="credit">Version 1.1 Developed By Kareem Shahatta</string>
+
+    <!--Settings Activity Strings-->
+    <string name="mode_radio_buttons">Mode</string>
+    <string name="dark_radio_button">Dark</string>
+    <string name="light_radio_button">Light</string>
+    <string name="system_radio_button">System</string>
+
+    <string name="color_radio_buttons">Color</string>
+    <string name="blue_radio_button">Blue</string>
+    <string name="green_radio_button">Green</string>
+    <string name="orange_radio_button">Orange</string>
+    <string name="purple_radio_button">Purple</string>
+
+    <string name="system">System</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="animation">Animation</string>
+    <string name="circulation">Circulation</string>
+    <string name="true_dark">True Dark Mode</string>
+
+    <!--Viewer Activity Strings-->
+    <string name="text_placeholder">Place Holder</string>
+    <string name="next_arrow_button">►</string>
+    <string name="save_button">Save</string>
+    <string name="unsave_button">Unsaved</string>
+    <string name="previous_arrow_button">◄</string>
+    <string name="saved_skills_counter">You have X empty slots available to save a skill</string>
+
+    <!--Shared Preferences File Names-->
+    <string name="settings_file">xy_settings</string>
+    <string name="saved_skills_file">xy_saved_skills</string>
+    <string name="saved_skills">saved_skills</string>
+
+
+
+
+    <!--Shared Preferences Setting Values-->
+    <string name="theme_color">color</string>
+    <string name="theme_mode">mode</string>
+    <string name="theme_true_dark">amoled</string>
+
+    <!--Shared Preferences Effects Values-->
+    <string name="effect_audio">audio</string>
+    <string name="effect_vibration">vibration</string>
+    <string name="effect_animation">animation</string>
+    <string name="effect_circulation">circulation</string>
+
+</resources>

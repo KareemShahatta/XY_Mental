@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Add your skill here by creating a title and description, like in the example below.-->
+
+    <string name="demo_title">Title</string>
+    <string name="demo_desc">Description</string>
+
+</resources>
