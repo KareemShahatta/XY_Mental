@@ -1,5 +1,5 @@
 # XY_Mental V1.1
-This Android app, built in Java, is like a behavioral journal that shows mental skill cards to help support your daily life.
+This Android app, built in Java, is like a behavioral journal that shows mental skill badges to help support your daily life.
 
 **Note:** I’m not a professional Android developer, so this project's code and structure might be a bit amateur.
 
